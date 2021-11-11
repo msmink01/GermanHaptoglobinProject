@@ -18,8 +18,10 @@ Linear mixed modeling analysis done on dataset consisting of more than 60 clinic
 -------
 ## Publication
 
-The results found from this project were used for a publication:
+The results found from this project were used for German Veterinary Medicine publication:
 
 Hajek F, Reus A, Gruber S, Plattner S, Kammer M, Baumgartner C, Smink M, Döpfer D, Hachenberg S, Mansfeld R. Nutzung der Haptoglobinkonzentration im Blutserum als Indikator im Tiergesundheitsmonitoring bei Milchkühen [Use of serum haptoglobin concentration as an indicator in animal health monitoring of dairy cows]. Tierarztl Prax Ausg G Grosstiere Nutztiere. 2020 Aug;48(4):228-238. German. doi: 10.1055/a-1208-8229. Epub 2020 Aug 21. PMID: 32823327.
+
+https://doi.org/10.1055/a-1208-8229
 
 -------
